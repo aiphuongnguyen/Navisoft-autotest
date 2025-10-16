@@ -1,5 +1,5 @@
 {
-  "name": "navisoft-autotest",
+  "name": "navisoft",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "@playwright/test": "^1.56.0",
-    "@types/node": "^24.7.2"
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.5.2"
   }
 }
